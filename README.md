@@ -1,0 +1,2 @@
+# bazar_proyecto_jnformatico_ii_grupo_4
+Codigo del aplicativo
