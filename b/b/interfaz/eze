@@ -1,0 +1,11 @@
+ & "C:/Users/Usuario/AppData/Local/Programs/Python/Python312/python.exe" "C:/Users/Usuario/Downloads/b/b/interfaz/BazarApp.py"
+esta es mi terminal por donde yo ejecuto, lo tengo por las dudas no tocar
+
+ """che el que programe, si tiene error al ejecutar probalo ejecutando desde la consola de python no powesell
+ a mi me funciono de las dos, fijate si el directorio de la terminaL donde se ejcuta,   
+ otra cosa, al momento de instalar tanto kivy como python si es que no lo tienes que sea POR FAVOR EN LA MISMA CARPETA
+ QUE TIENES El trabajo
+ vas a cmd colocas la direccion de tu archivo donde esta la carpta de preferencia que sea en donwloads asi te funciona porque sino 
+ te pedue tirar otros errores
+ PS C:\Users\Usuario\Downloads\b\b>  asi tiene que tener tu terminal algo asi(capas uuser o usario es otro pero igual sino mira chat ahi te indica)
+
